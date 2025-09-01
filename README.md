@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront)
 
-- 🌱 I’m currently learning **Java, MySQL, JavaScript, & React**
+- 🌱 I’m currently learning **MySQL, JavaScript, & React**
 
 - 💬 Ask me about **Java**
 
