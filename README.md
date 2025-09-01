@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chris</h1>
-<h3 align="center">A passionate backend developer from Tennessee</h3>
+<h3 align="center">Backend developer from Tennessee</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knoxdevchris&label=Profile%20views&color=0e75b6&style=flat" alt="knoxdevchris" /> </p>
