@@ -1,5 +1,3 @@
-[![LeetCode Profile](https://raw.githubusercontent.com/knoxdevchris/knoxdevchris/main/banner/git-banner-v-3.png)](https://leetcode.com/knoxdevchris/)
-
 <br />
 
 ## 📊 Current Statistics
