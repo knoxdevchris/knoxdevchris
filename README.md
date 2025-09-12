@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Chris</h1>
-<h3 align="center">Backend developer from Tennessee</h3>
+[![LeetCode Profile](https://raw.githubusercontent.com/knoxdevchris/knoxdevchris/main/banner/git-banner-v-3.png)](https://leetcode.com/knoxdevchris/)
 
+<br />
 
 ## 📊 Current Statistics
 <div align="left">
@@ -8,23 +8,32 @@
 ![Chris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=knoxdevchris&theme=highcontrast&hide_border=true)
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=knoxdevchris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knoxdevchris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knoxdevchris&label=Profile%20views&color=0e75b6&style=flat" alt="knoxdevchris" /> </p>
+<br />
 
-- 🔭 I’m currently working on [Spring-Practice](https://github.com/knoxdevchris/SpringPractice)
+## 📨 Contact With Me
+<div align="left">
 
-- 🌱 I’m currently learning **Spring Boot and MySQL**
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-millerx)  
+![Discord](https://img.shields.io/badge/Discord-millashoota-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+</div>
+<br />
 
-- 💬 Ask me about **Java**
+## ⏱️ My Recent Projects
+- [Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront)  
+- [Task Manager (Spring Boot)](https://github.com/knoxdevchris/TaskManager-Spring-Boot)  
+- [Pong Game](https://github.com/knoxdevchris/pong-game)  
 
-- 📫 How to reach me **chris428miller@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chris-millerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-millerx" height="30" width="40" /></a>
-</p>
+<!-- source: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+## 💻 My Technical Skills
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,react,js,html,css,tailwind,python,mysql,postgres,git,github,aws,azure,gcp,c)](https://github.com/knoxdevchris)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,react,js,html,css,mysql,postgres,git,github)](https://github.com/knoxdevchris)
 </div>
