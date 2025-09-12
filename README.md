@@ -2,11 +2,18 @@
 <h3 align="center">Backend developer from Tennessee</h3>
 
 
+## 📊 Current Statistics
+<div align="left">
+
+![Chris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=knoxdevchris&theme=highcontrast&hide_border=true)
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knoxdevchris&label=Profile%20views&color=0e75b6&style=flat" alt="knoxdevchris" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront)
+- 🔭 I’m currently working on [Spring-Practice](https://github.com/knoxdevchris/SpringPractice)
 
-- 🌱 I’m currently learning **MySQL, JavaScript, & React**
+- 🌱 I’m currently learning **Spring Boot and MySQL**
 
 - 💬 Ask me about **Java**
 
