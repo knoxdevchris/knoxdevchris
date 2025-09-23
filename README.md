@@ -17,7 +17,6 @@
 <div align="left">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-millerx)  
-![Discord](https://img.shields.io/badge/Discord-millashoota-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </div>
 <br />
 
