@@ -32,5 +32,5 @@
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,react,js,html,css,mysql,postgres,git,github)](https://github.com/knoxdevchris)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,git,github)](https://github.com/knoxdevchris)
 </div>
