@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Christopher%20Miller&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Knoxville%2C%20TN&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Christopher%20Miller&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Knoxville%2C%20TN&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+Chris+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React;Building+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+Chris+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+React;Building+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <!-- Badges -->
 <p>
@@ -21,23 +21,6 @@
 </p>
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-```java
-public class ChristopherMiller {
-    String name       = "Christopher Miller";
-    String alias      = "knoxdevchris";
-    String location   = "Knoxville, Tennessee 🏔️";
-    String role       = "Full Stack Developer";
-    String[] languages = {"Java", "JavaScript", "Dart", "HTML", "CSS"};
-    String[] interests = {"Clean Code", "System Design", "Mobile Apps", "Open Source"};
-    String currentFocus = "Building scalable full-stack applications";
-    String funFact    = "I debug with coffee ☕ and fix bugs at midnight 🌙";
-}
-```
 
 ---
 
@@ -98,8 +81,8 @@ public class ChristopherMiller {
 |:--------|:------------|:-----------|
 | [🛒 Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront) | Full-featured ecommerce platform with product catalog, cart & checkout | Java · Spring Boot · React |
 | [✅ TaskManager-Spring-Boot](https://github.com/knoxdevchris/TaskManager-Spring-Boot) | RESTful task management API with full CRUD operations | Java · Spring Boot · MySQL |
-| [📱 flutter_todo_app](https://github.com/knoxdevchris/flutter_todo_app) | Cross-platform mobile todo app — my first Flutter project | Flutter · Dart |
-| [🏓 Pong Game](https://github.com/knoxdevchris/pong-game) | Classic arcade Pong game reimagined in Java | Java |
+| [📱 flutter_todo_app](https://github.com/knoxdevchris/flutter_todo_app) | Cross-platform mobile todo app with clean material UI | Flutter · Dart |
+| [🏓 Pong Game](https://github.com/knoxdevchris/pong-game) | Classic arcade Pong game built with Flutter | Flutter · Dart |
 | [💼 Portfolio](https://github.com/knoxdevchris/knoxdevchris.github.io) | Personal portfolio website showcasing projects & skills | HTML · CSS · JavaScript |
 
 ---
