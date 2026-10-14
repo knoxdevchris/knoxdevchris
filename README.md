@@ -1,24 +1,16 @@
 <div align="center">
 
 <!-- Animated Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Christopher%20Miller&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Knoxville%2C%20TN&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Christopher%20Miller&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Knoxville%2C%20TN&descAlignY=58&descAlign=50" width="100%" alt="Christopher Miller, Software Developer, Knoxville, TN"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+Chris+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+React;Building+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <!-- Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/chris-millerx">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://knoxdevchris.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:chris428miller@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=knoxdevchris&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-millerx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=googlechrome&logoColor=white)](https://knoxdevchris.github.io)
+[![Email](https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:chris428miller@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=knoxdevchris&style=flat-square&color=555555&label=PROFILE+VIEWS)
 
 </div>
 
@@ -26,28 +18,28 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-555555?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-555555?style=flat-square&logo=flutter&logoColor=white)
 
-**Databases & Tools**
+### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-555555?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-555555?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -78,12 +70,12 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| [🛒 Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront) | Full-featured ecommerce platform with product catalog, cart & checkout | Java · Spring Boot · React |
-| [✅ TaskManager-Spring-Boot](https://github.com/knoxdevchris/TaskManager-Spring-Boot) | RESTful task management API with full CRUD operations | Java · Spring Boot · MySQL |
-| [📱 flutter_todo_app](https://github.com/knoxdevchris/flutter_todo_app) | Cross-platform mobile todo app with clean material UI | Flutter · Dart |
-| [🏓 Pong Game](https://github.com/knoxdevchris/pong-game) | Classic arcade Pong game built with Flutter | Flutter · Dart |
-| [💼 Portfolio](https://github.com/knoxdevchris/knoxdevchris.github.io) | Personal portfolio website showcasing projects & skills | HTML · CSS · JavaScript |
+| :------ | :---------- | :--------- |
+| [🛒 Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront) | Full-featured ecommerce platform with product catalog, cart & checkout | ![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white) |
+| [✅ TaskManager-Spring-Boot](https://github.com/knoxdevchris/TaskManager-Spring-Boot) | RESTful task management API with full CRUD operations | ![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white) |
+| [📱 flutter_todo_app](https://github.com/knoxdevchris/flutter_todo_app) | Cross-platform mobile todo app with clean material UI | ![Flutter](https://img.shields.io/badge/Flutter-555555?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-555555?style=flat-square&logo=dart&logoColor=white) |
+| [🏓 Pong Game](https://github.com/knoxdevchris/pong-game) | Classic arcade Pong game built with Flutter | ![Flutter](https://img.shields.io/badge/Flutter-555555?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-555555?style=flat-square&logo=dart&logoColor=white) |
+| [💼 Portfolio](https://github.com/knoxdevchris/knoxdevchris.github.io) | Personal portfolio website showcasing projects & skills | ![HTML](https://img.shields.io/badge/HTML-555555?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-555555?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white) |
 
 ---
 
@@ -103,9 +95,9 @@
 
 If you'd like to collaborate, have a question, or just want to say hi — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher_Miller-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-millerx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-knoxdevchris.github.io-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://knoxdevchris.github.io)
-[![Email](https://img.shields.io/badge/Email-chris428miller@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris428miller@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher_Miller-555555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-millerx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-knoxdevchris.github.io-555555?style=flat-square&logo=googlechrome&logoColor=white)](https://knoxdevchris.github.io)
+[![Email](https://img.shields.io/badge/Email-chris428miller@gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:chris428miller@gmail.com)
 
 </div>
 
@@ -115,4 +107,4 @@ If you'd like to collaborate, have a question, or just want to say hi — feel f
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt=""/>
